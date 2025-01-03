@@ -6,16 +6,16 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus4411&show_icons=true&theme=dark)]([https://github.com/mateus4411/github-readme-stats](https://github.com/mateus4411/mateus4411/blob/main/README.md))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus4411&show_icons=true&theme=dark)]((https://github.com/anuraghazra/github-readme-stats))
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus4411&repo=Projetos.github.io&theme=dark)]([https://github.com/mateus4411/github-readme-stats](https://github.com/mateus4411/mateus4411/blob/main/README.md))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus4411&repo=Projetos.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus4411&layout=compact)]([https://github.com/mateus4411/github-readme-stats](https://github.com/mateus4411/mateus4411/blob/main/README.md))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus4411&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
