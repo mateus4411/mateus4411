@@ -10,7 +10,7 @@
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus4411&repo=analise-de-dados-de-credito-com-SQL
-&theme=dark)](https://github.com/mateus4411/analise-de-dados-de-credito-com-SQL
+&theme=dark)](https://github.com/mateus4411/analise-de-dados-de-credito-com-SQL)
 
 
 ### Linguagens utilizadas
