@@ -10,7 +10,7 @@
 
 ### Projetos
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus4411&repo=analise-de-dados-de-credito-com-SQL&theme=radical&show_owner=true&hide_border=true)
+### 🖥️ [Analise-de-dados-de-credito-sql](https://github-readme-stats.vercel.app/api/pin/?username=mateus4411&repo=analise-de-dados-de-credito-com-SQL&theme=radical&show_owner=true&hide_border=true)
 
 
 
