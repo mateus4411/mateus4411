@@ -10,9 +10,6 @@
 
 ### Principais Projetos
 
-[Analise-de-dados-de-credito-SQL](https://github.com/mateus4411/analise-de-dados-de-credito-com-SQL)
-No description provided
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus4411&repo=analise-de-dados-de-credito-com-SQL&theme=dark)
 
 
