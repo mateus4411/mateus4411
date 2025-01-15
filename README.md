@@ -12,6 +12,8 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus4411&repo=analise-de-dados-de-credito-com-SQL&theme=dark)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus4411&repo=modelo_de_classificacao&theme=dark)
+
 
 
 ### Linguagens utilizadas
