@@ -12,9 +12,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus4411&repo=analise-de-dados-de-credito-com-SQL&theme=dark)](https://github.com/mateus4411/analise-de-dados-de-credito-com-SQL)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus4411&repo=modelo_de_classificacao&theme=dark)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus4411&repo=modelo_de_classificacao&theme=dark)](https://github.com/mateus4411/modelo_de_classificacao)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeuUsuario&repo=Analise-de-dados-de-logistica-Python&theme=dark)](https://github.com/SeuUsuario/Nome-do-repositorio)
+
 
 ### Linguagens utilizadas
 
