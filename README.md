@@ -14,6 +14,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus4411&repo=modelo_de_classificacao&theme=dark)](https://github.com/mateus4411/modelo_de_classificacao)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus4411&repo=Analise_exploratoria_com_python&theme=dark)](https://github.com/mateus4411/Analise_exploratoria_com_python)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus4411&repo=Modelo_de_regressao&theme=dark)](https://github.com/mateus4411/Modelo_de_regressao)
 
 
 ### Linguagens utilizadas
